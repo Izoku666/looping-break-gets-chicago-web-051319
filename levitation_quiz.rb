@@ -9,7 +9,7 @@ def levitation_quiz
 	#your code here
 end
 
-levitation_quiz
+#levitation_quiz
 
 #def annoying
 #    loop do 
